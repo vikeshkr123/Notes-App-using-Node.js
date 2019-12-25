@@ -1,4 +1,4 @@
-# Notes-App-using-Nodejs
+# Notes-App-using-Node.js
 This is a simple demonstration of working of a Notes app providing several functions like:
 * Adding a new note to notes.json file if it doesnot exist in json file already to avoid duplication.
 * Remove a note if note is present in notes.json file otherwise throwing error "Not Found".
